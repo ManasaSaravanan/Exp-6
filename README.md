@@ -1,3 +1,5 @@
+# MANASA S 
+# 212224220059
 # Exp - 6 STUDENT ONLINE EXAM REGISTRATION SYSTEM
 
 # AIM:
@@ -35,15 +37,28 @@ The administrator after successful confirmation, initiates the process to genera
 
 ## CLASS DIAGRAM:
 
+<img width="824" height="546" alt="image" src="https://github.com/user-attachments/assets/00ab8683-1d7e-481a-8cf4-4bbb12dc27b7" />
 
 
 ## ACTIVITY DIAGRAM:
 
+<img width="610" height="693" alt="image" src="https://github.com/user-attachments/assets/7d4aacd2-0df0-4081-9c81-71b786b6dee3" />
+
+
 ## COMMUNICATION DIAGRAM:
+
+<img width="846" height="487" alt="image" src="https://github.com/user-attachments/assets/7447b62e-9016-4b6e-aa8f-7d56b0b0e4af" />
+
 
 ## SEQUENCE DIAGRAM:
 
+<img width="778" height="742" alt="image" src="https://github.com/user-attachments/assets/4034f99c-8211-4142-8f8e-af82cc6d4d18" />
+
+
 ## PACKAGE DIAGRAM:
+
+<img width="869" height="490" alt="image" src="https://github.com/user-attachments/assets/f6d7a043-b9c7-43d0-8111-d7539104f7aa" />
+
 
 ## RESULT:
 Thus the project to develop Exam Registration system was developed using Star UML Software is done successfully.
